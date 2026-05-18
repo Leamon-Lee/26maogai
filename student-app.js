@@ -300,6 +300,11 @@
       return app.bank.questions;
     }
 
+    function shouldSkipInReview(questionId) {
+      if (!app.reviewMode || app.reviewScope !== "done") return false;
+      return !normalizeSpaces(getRecord(questionId)?.user_answer_text || "");
+    }
+
     function getQuestionStatus(record) {
       const answered = normalizeSpaces(record?.user_answer_text);
       if (!answered) return "unanswered";
@@ -383,6 +388,9 @@
           if (!passesFilters(question, record)) {
             return "";
           }
+          if (shouldSkipInReview(question.id)) {
+            return "";
+          }
           const statusClass = getQuestionStatus(record);
           return `
             <button
@@ -417,22 +425,30 @@
           if (!passesFilters(question, record)) {
             return "";
           }
-          const evaluation = app.reviewMode ? compareAnswers(record.user_answer_text, record.correct_answer_text) : null;
+          if (shouldSkipInReview(question.id)) {
+            return "";
+          }
+          const answered = normalizeSpaces(record.user_answer_text);
+          const evaluation = app.reviewMode ? (answered ? compareAnswers(record.user_answer_text, record.correct_answer_text) : null) : null;
           const statusText = app.reviewMode
-            ? evaluation === null
+            ? !answered
               ? "\u672a\u4f5c\u7b54"
-              : evaluation
-                ? "\u5df2\u7b54\u5bf9"
-                : "\u5df2\u7b54\u9519"
+              : evaluation === null
+                ? "\u672a\u4f5c\u7b54"
+                : evaluation
+                  ? "\u5df2\u7b54\u5bf9"
+                  : "\u5df2\u7b54\u9519"
             : normalizeSpaces(record.user_answer_text)
               ? "\u5df2\u4fdd\u5b58"
               : "\u672a\u4f5c\u7b54";
           const statusClass = app.reviewMode
-            ? evaluation === null
+            ? !answered
               ? "badge-muted"
-              : evaluation
-                ? "badge-success"
-                : "badge-danger"
+              : evaluation === null
+                ? "badge-muted"
+                : evaluation
+                  ? "badge-success"
+                  : "badge-danger"
             : normalizeSpaces(record.user_answer_text)
               ? "badge-muted"
               : "badge-muted";
@@ -484,7 +500,7 @@
                       ${app.reviewMode ? "\u91cd\u65b0\u5bf9\u7b54\u6848" : "\u5bf9\u7b54\u6848"}
                     </button>
                   </div>
-                  ${app.reviewMode ? `<div class="answer-preview"><strong>\u6807\u51c6\u7b54\u6848\uff1a</strong>${escapeHtml(record.correct_answer_text || "\u6682\u65e0")}</div>` : ""}
+                  ${app.reviewMode && answered ? `<div class="answer-preview"><strong>\u6807\u51c6\u7b54\u6848\uff1a</strong>${escapeHtml(record.correct_answer_text || "\u6682\u65e0")}</div>` : ""}
                 </div>
               </div>
             </article>
