@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>学生端 - 在线刷题与测试系统</title>
+    <link rel="stylesheet" href="./quiz.css" />
+  </head>
+  <body class="student-page">
+    <main id="studentAppRoot" class="student-page-shell">
+      <header class="student-header">
+        <div class="student-hero-copy">
+          <span class="eyebrow">Student Workspace</span>
+          <h1>在线刷题与测试</h1>
+          <p>
+            页面会自动读取同目录 <code>data-qna.json</code> 题库。左侧 600 个小方格会实时显示作答状态，底部可以保存进度或导出答案。
+          </p>
+        </div>
+        <div class="student-actions">
+          <select id="typeFilter" class="toolbar-select">
+            <option value="all">全部题型</option>
+            <option value="single">单选题</option>
+            <option value="multiple">多选题</option>
+            <option value="judge">判断题</option>
+          </select>
+          <select id="stateFilter" class="toolbar-select">
+            <option value="all">全部状态</option>
+            <option value="wrong">只看错题</option>
+            <option value="unanswered">只看未做题</option>
+          </select>
+        </div>
+      </header>
+
+      <section id="loadNotice" class="student-notice">
+        正在自动读取同目录 `data-qna.json`，请稍候。
+      </section>
+
+      <section id="studentApp" class="student-layout hidden">
+        <aside class="student-sidebar">
+          <section class="score-strip">
+            <div class="score-kicker">当前得分</div>
+            <div class="score-value" id="scoreValue">0</div>
+            <div class="score-meta" id="scoreMeta">0 / 0</div>
+            <div class="score-bar" aria-hidden="true"><span id="scoreBar"></span></div>
+            <div class="score-caption" id="scoreCaption">等待载入题库</div>
+          </section>
+
+          <section class="tile-strip">
+            <div class="tile-strip-head">
+              <span>600 个小方格</span>
+              <span id="tileHint">未载入</span>
+            </div>
+            <div id="questionTiles" class="question-tiles"></div>
+          </section>
+
+          <section class="save-strip">
+            <div class="save-strip-head">保存出答案</div>
+            <div class="save-strip-body">
+              <select id="sessionSelect" class="session-select"></select>
+              <div class="save-strip-groups">
+                <div class="save-group">
+                  <div class="save-group-title">记录管理</div>
+                  <div class="save-group-actions">
+                    <button id="newSessionBtn" class="btn btn-secondary" type="button">新建记录</button>
+                    <button id="deleteSessionBtn" class="btn btn-ghost" type="button">删除记录</button>
+                  </div>
+                </div>
+                <div class="save-group">
+                  <div class="save-group-title">保存与判题</div>
+                  <div class="save-group-actions">
+                    <button id="saveDraftBtn" class="btn btn-ghost" type="button">保存进度</button>
+                    <button id="toggleAnswersBtn" class="btn btn-secondary" type="button">对答案</button>
+                    <button id="exportBtn" class="btn btn-primary" type="button">保存出答案</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </aside>
+
+        <section class="student-main">
+          <div class="student-main-head">
+            <div>
+              <div class="main-kicker">测试内容</div>
+              <h2 id="importedName">未载入题库</h2>
+            </div>
+            <div class="main-meta" id="activeSessionName">test1</div>
+          </div>
+          <div id="questionList" class="student-question-list"></div>
+        </section>
+      </section>
+    </main>
+
+    <div id="reviewModal" class="review-modal hidden" role="dialog" aria-modal="true" aria-labelledby="reviewModalTitle">
+      <div class="review-modal-card">
+        <h3 id="reviewModalTitle">题目尚未全部完成</h3>
+        <p>你当前还有未作答题目，是否继续做题，还是先开始对答案？</p>
+        <div class="review-modal-actions">
+          <button id="reviewContinueBtn" class="btn btn-ghost" type="button">继续做题</button>
+          <button id="reviewDoneBtn" class="btn btn-secondary" type="button">只检查已做题</button>
+          <button id="reviewAllBtn" class="btn btn-primary" type="button">检查全部</button>
+        </div>
+      </div>
+    </div>
+
+    <script src="./data-qna.js"></script>
+    <script src="./student-app.js"></script>
+    <script>
+      window.StudentApp.bootstrap();
+    </script>
+  </body>
+</html>

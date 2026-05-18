@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>老师端 - 在线刷题与测试系统</title>
+    <link rel="stylesheet" href="./quiz.css" />
+  </head>
+  <body>
+    <main id="teacherApp" class="page-shell">
+      <section class="hero">
+        <span class="eyebrow">Teacher Console</span>
+        <h1>老师端题库配置</h1>
+        <p>
+          可直接打开并写回 <code>data-qna.json</code>，支持临时保存、1 分钟自动保存，以及按每 50 题一页的 5
+          列 10 行编辑布局。
+        </p>
+        <div class="toolbar">
+          <input id="teacherTitle" type="text" value="自定义题库" placeholder="题库标题" style="max-width: 280px;" />
+          <input id="teacherFileInput" type="file" accept=".json,application/json" hidden />
+          <button id="openTeacherBtn" class="btn btn-secondary" type="button">打开 data-qna.json</button>
+          <button id="draftTeacherBtn" class="btn btn-secondary" type="button">临时保存</button>
+          <button id="saveTeacherBtn" class="btn btn-primary" type="button">保存到 data-qna.json</button>
+          <button id="addQuestionBtn" class="btn btn-secondary" type="button">新增题目</button>
+          <button id="addDefaultQuestionBtn" class="btn btn-secondary" type="button">快速加单选</button>
+          <div class="spacer"></div>
+          <button id="exportTeacherBtn" class="btn btn-ghost" type="button">导出副本</button>
+        </div>
+        <div class="teacher-status" id="teacherStatus">尚未打开题库，支持临时保存和 1 分钟自动保存。</div>
+        <div class="teacher-pager" id="teacherPager"></div>
+      </section>
+
+      <section class="teacher-grid" style="margin-top: 18px;">
+        <div class="notice">
+          这里按每 50 题一组分页，当前页采用 5 列 10 行布局。修改后可以手动保存，也会自动暂存到本地草稿。
+        </div>
+        <div id="teacherQuestionList" class="teacher-question-grid"></div>
+      </section>
+    </main>
+
+    <script src="./quiz-app.js"></script>
+    <script src="./teacher-app.js"></script>
+    <script>
+      window.TeacherApp.bootstrap();
+    </script>
+  </body>
+</html>
