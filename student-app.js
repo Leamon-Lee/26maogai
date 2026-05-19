@@ -37,7 +37,7 @@
 
   function normalizeAnswer(value) {
     return normalizeSpaces(value)
-      .replace(/[锛屻€侊紱;]/g, ",")
+      .replace(/[，、；;]/g, ",")
       .replace(/\s+/g, "")
       .toUpperCase();
   }
@@ -399,7 +399,7 @@
               data-question-id="${escapeHtml(question.id)}"
               data-num="${index + 1}"
               aria-label="${escapeHtml(question.id)}"
-              title="绗?${index + 1} 棰?
+              title="第 ${index + 1} 题"
             >
               <span class="tile-tooltip">${index + 1}</span>
             </button>
