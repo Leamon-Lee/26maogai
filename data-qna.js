@@ -108,7 +108,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "买办阶级"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -162,7 +164,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "改革"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -188,7 +192,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "新时代坚持和发展什么样的中国特色社会主义、怎样坚持和发展中国特色社会主义"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -214,7 +220,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "科学发展观"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -240,7 +248,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "改革"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -266,7 +276,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "民族资产阶级"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -292,7 +304,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "正确分析中国社会的阶级状况"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -318,7 +332,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "习近平新时代中国特色社会主义思想"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -344,7 +360,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "实现什么样的现代化、怎样实现现代化的问题"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -370,7 +388,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "新时代坚持和发展什么样的中国特色社会主义、怎样坚持和发展中国特色社会主义"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -396,7 +416,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "是否有利于提高人民生活水平"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -422,7 +444,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "走中国特色社会主义道路"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -448,7 +472,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "工业发展的平衡问题"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -474,7 +500,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "具有社会主义萌芽性质"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -500,7 +528,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "全面建设社会主义现代化强国"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -526,7 +556,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "计划生产是工农业生产的主体"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -552,7 +584,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "欧洲"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -578,7 +612,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《实践是检验真理的唯一标准》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -604,7 +640,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "“四项基本原则”"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -630,7 +668,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "系统性确立"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -656,7 +696,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党的十六大"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -682,7 +724,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "85"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -708,7 +752,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "稳定发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -734,7 +780,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党的十八大"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -760,7 +808,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "恐怖主义危害上升"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -786,7 +836,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "长期形成的结构性矛盾尚未根本改变"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -812,7 +864,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "金融业"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -838,7 +892,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "坚决反对和防止腐败"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -864,7 +920,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "对民族资产阶级又斗争又联合"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -890,7 +948,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "北伐战争"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -916,7 +976,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "手工业者"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -942,7 +1004,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "封建主义同人民大众的矛盾"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -968,7 +1032,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "城市小资产阶级"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -994,7 +1060,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "自力更生，艰苦创业"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1020,7 +1088,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "改革开放"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1046,7 +1116,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "实事求是"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1072,7 +1144,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "科教兴国"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1098,7 +1172,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "社会主义工业化"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1124,7 +1200,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "21 世纪末"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1150,7 +1228,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "改革开放"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1176,7 +1256,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "新形势下实现什么样的发展、怎样发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1202,7 +1284,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "社会主义制度的自我完善和发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1228,7 +1312,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "“两手抓，两手都要硬”"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1254,7 +1340,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "坚持社会主义基本制度"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1280,7 +1368,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "帝国主义"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1306,7 +1396,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "解放思想的重要性"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1332,7 +1424,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "中共十一届六中全会"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1358,7 +1452,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "遵义会议"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1367,7 +1463,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "[空题]",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1393,7 +1491,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "教育"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1419,7 +1519,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "保障和改善民生"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1445,7 +1547,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "农民和手工业者入社以后，要处理好各方面的经济关系及生产和收益分配方面的问题"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1471,7 +1575,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "没收地主阶级的土地和财产"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1497,7 +1603,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "组织形式和经营方式"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1506,7 +1614,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "[空题]",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1532,7 +1642,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党的作风建设"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1558,7 +1670,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "促进区域协调发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1584,7 +1698,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "农民作为同盟军是不可靠的，这就要求无产阶级及其政党必须深入农村，从解决农民的土地问题入手"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1610,7 +1726,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "民族资产阶级"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1636,7 +1754,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "统筹兼顾"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1662,7 +1782,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "可持续发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1671,7 +1793,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "[空题]",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1697,7 +1821,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "改革突破期"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1723,7 +1849,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "新时代坚持和发展什么样的中国特色社会主义"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1749,7 +1877,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "1927"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1775,7 +1905,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "具有鲜明的民族风格、民族形式和民族特色"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1801,7 +1933,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "不相适应又不相矛盾"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1827,7 +1961,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "群众路线"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1853,7 +1989,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "群众路线"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1879,7 +2017,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党的建设"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1905,7 +2045,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "中华人民共和国成立后"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1931,7 +2073,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "无产阶级的领导权问题"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1957,7 +2101,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "中国工人阶级的成长壮大"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1966,7 +2112,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "[空题]",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -1992,7 +2140,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "中华人民共和国成立后"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2018,7 +2168,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "中国改革和发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2044,7 +2196,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "解放思想"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2053,7 +2207,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "[空题]",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2079,7 +2235,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "工人阶级领导的农民战争"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2105,7 +2263,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "中国的自给自足的自然经济"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2131,7 +2291,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "大型企业和中小型企业同时并举"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2157,7 +2319,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "中国革命的首要问题"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2183,7 +2347,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "中国是一个农民占人口多数的国家"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2209,7 +2375,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "传统文化和西方文化的矛盾"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2235,7 +2403,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "以上都是"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2261,7 +2431,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "文化传统的不可逾越性"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2287,7 +2459,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "社会主义公有制经济是否成为社会经济的主体"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2313,7 +2487,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "人民民主专政政权的建立"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2322,7 +2498,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "[空题]",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2348,7 +2526,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "农村包围城市、武装夺取政权思想的阐述"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2374,7 +2554,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党的十五大"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2400,7 +2582,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "小康"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2426,7 +2610,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "新科技革命推动下的经济社会快速发展使各国人民更加珍惜发展的机遇"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2452,7 +2638,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "印度"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2478,7 +2666,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "保持党在政治上、组织上和思想上的独立性"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2504,7 +2694,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "独立自主"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2530,7 +2722,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "具有半社会主义性质"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2556,7 +2750,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "家庭手工作坊"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2565,7 +2761,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "[空题]",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2591,7 +2789,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "是社会主义国营性质的企业"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2617,7 +2817,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "清产核算、定股定息"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2643,7 +2845,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "公私兼顾"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2669,7 +2873,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "基本上属于社会主义国营性质"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2695,7 +2901,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《关于正确处理人民内部矛盾的问题》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2721,7 +2929,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "南方谈话"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2747,7 +2957,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "国家机关某些工作人员的官僚主义作风同群众之间的矛盾"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2773,7 +2985,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "大型企业和中小型企业同时并举"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2799,7 +3013,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "指导思想"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2825,7 +3041,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "无产阶级社会主义革命"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2851,7 +3069,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《论持久战》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2877,7 +3097,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "帝国主义是主要敌人"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2903,7 +3125,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "无产阶级专政"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2929,7 +3153,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "个体经济和合作社经济"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2955,7 +3181,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "共产主义"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -2981,7 +3209,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "民族资产阶级"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3007,7 +3237,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "人民日益增长的物质文化需要同落后的社会生产之间的矛盾"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3033,7 +3265,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "生态可持续"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3059,7 +3293,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "在解放战争时期，革命的主要对象是美帝国主义支持下的国民党反动派"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3085,7 +3321,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "科学发展观"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3111,7 +3349,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "更为完善的制度保证、更为坚实的物质基础、更为主动的精神力量"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3137,7 +3377,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "武装斗争、统一战线、革命根据地建设"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3163,7 +3405,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "专政和民主"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3189,7 +3433,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "建立典型的方法"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3215,7 +3461,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "“统筹兼顾”方针"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3241,7 +3489,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "“两步走”"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3267,7 +3517,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "民族资产阶级"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3293,7 +3545,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "实现国家和人民根本利益的能力"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3319,7 +3573,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "瞿秋白"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3345,7 +3601,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "推动社会进步"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3371,7 +3629,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "进步势力、中间势力、顽固势力三者之间的关系"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3397,7 +3657,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "全党服从中央"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3423,7 +3685,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "将私营企业直接改变为国营企业，将资本主义私有制改变为社会主义公有制"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3449,7 +3713,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "思想建设、结构建设和作风建设"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3475,7 +3741,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "发展农业合作化"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3501,7 +3769,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "新民主主义革命仍然属于资产阶级民主主义革命的范畴"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3527,7 +3797,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "开放与融通"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3553,7 +3825,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "改革开放和社会主义现代化建设实践"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3579,7 +3853,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "工人阶级同可以合作的非劳动人民的联盟"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3605,7 +3881,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "经济救援"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3631,7 +3911,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "是非关系"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3657,7 +3942,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "标志着我国的社会主义初级阶段从此开始"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3683,7 +3973,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "破除了离开发展生产力抽象谈论姓“社”姓“资”的思维定势"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3709,7 +4004,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "革命是解放生产力，改革也是解放生产力"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B",
+        "C",
+        "D",
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3735,7 +4035,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "“没有调查，没有发言权”"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3761,7 +4065,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "世界进入百年未有之大变局"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3787,7 +4095,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "采用实用主义的态度对待马克思主义，让理论更好地服务于实践、服务于社会主义建设"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3813,7 +4125,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "第一次提出关于“四个现代化”的构想"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3839,7 +4155,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "人口与资源环境关系紧张"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3865,7 +4185,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "资本主义工商业"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3891,7 +4215,10 @@ window.__DEFAULT_QNA_DATA = {
           "content": "社会主义社会的统一问题"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3917,7 +4244,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "限制私营经济发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3943,7 +4274,10 @@ window.__DEFAULT_QNA_DATA = {
           "content": "提高拒腐防变和抵御风险的能力"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3969,7 +4303,10 @@ window.__DEFAULT_QNA_DATA = {
           "content": "自然资源充分利用型"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -3978,7 +4315,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "[空题]",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4004,7 +4343,10 @@ window.__DEFAULT_QNA_DATA = {
           "content": "中华民族伟大复兴"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4030,7 +4372,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "与时俱进"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4056,7 +4402,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "同人民群众保持亲密联系"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4082,7 +4432,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "社会主义革命是民主革命的必然趋势"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4108,7 +4462,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "近代中国社会政治经济发展极端不平衡，四分五裂，军阀割据"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4134,7 +4493,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "始终代表中国最广大人民的根本利益"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4160,7 +4523,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "强制剥夺"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4186,7 +4553,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "改革是否进行得完全、彻底"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4212,7 +4583,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "实现对资本主义工商业的社会主义改造"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4238,7 +4613,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "伟大梦想"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4264,7 +4644,10 @@ window.__DEFAULT_QNA_DATA = {
           "content": "百家争鸣"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4290,7 +4673,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "马克思主义为中国的革命和建设提供了现成的参考依据"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C",
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4316,7 +4703,10 @@ window.__DEFAULT_QNA_DATA = {
           "content": "求同存异"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4342,7 +4732,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "支持东部地区率先发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "D",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4351,7 +4746,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "“三个代表”重要思想创造性地回答了“建设什么样的党、怎样建设党”这一重大课题。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4360,7 +4757,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "1954 年制定的《中华人民共和国宪法》把中国人民行使当家作主权利的政治制度用根本大法形式确定下来，指明了为建立社会主义社会继续奋斗的正确道路。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4369,7 +4768,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "党的十三大报告提出把我国建设成为富强、民主、文明、和谐、美丽的社会主义现代化国家而奋斗。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4378,7 +4779,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "邓小平理论是中国共产党人在实践中不懈探索和回答什么是社会主义、怎样建设社会主义这一基本问题的过程中形成的。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4387,7 +4790,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "改革只是对原有经济体制的细枝末节的修补。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4396,7 +4801,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "官僚资本主义对广大劳动人民的残酷剥削和对民族工商业的巧取豪夺，严重束缚了近代中国社会生产力的发展。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4405,7 +4812,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "检验党的一切工作的成效，最终以经济发展速度为最高标准。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4414,7 +4823,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "建立以工农联盟为基础的广泛的统一战线是无产阶级及其政党实现对各革命阶级的领导权的关键。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4423,7 +4834,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "建设社会主义没有固定的模式，必须结合中国实际，在实践中不懈探索和回答什么是社会主义、怎样建设社会主义这一基本问题。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4432,7 +4845,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "建设社会主义政治文明，最根本的就是要坚持党的领导、人民当家作主和依法治国的有机统一。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4441,7 +4856,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "科学发展观，是我国经济社会发展的重要指导方针，是发展中国特色社会主义必须坚持和贯彻的重大战略思想。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4450,7 +4867,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "科学发展观是马克思主义同当代中国实际和时代特征相结合的产物，是马克思主义关于发展的世界观和方法论的集中体现。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4459,7 +4878,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "毛泽东关于社会主义社会矛盾的学说，为正确处理社会主义社会各种矛盾、创造良好的社会环境和政治环境，提供了基本的理论依据。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4468,7 +4889,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "毛泽东思想是被实践证明了的关于中国革命和建设的正确的理论原则和经验总结，是中国共产党集体智慧的结晶。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4477,7 +4900,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "没有农业现代化，就没有中国的现代化。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4486,7 +4911,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "没有完全搞清楚什么是社会主义和如何建设社会主义的问题，就不可能 集中精力发展生产力，也不可能对社会主义的某些制度和体制进行有效的改革。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4495,7 +4922,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "全面协调可持续发展是科学发展观的基本要求。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4504,7 +4933,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "社会主义的根本任务是实现共同富裕。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4513,7 +4944,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "十一届三中全会把党的工作中心转移到经济建设上来、实行了改革开放的历史性决策，开启了改革开放和社会主义建设的伟大征程。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4522,7 +4955,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "土地革命是中国革命的基本内容。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4531,7 +4966,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "推动经济社会发展是科学发展观的第一要义。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4540,7 +4977,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "我国社会主义改造的任务完成以后，无产阶级同资产阶级之间的矛盾已经基本解决。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4549,7 +4988,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "新民主主义社会是由新民主主义向社会主义转变的独立的社会形态。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4558,7 +4999,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "以经济建设为中心是党在改革开放和社会主义现代化建设新时期实现的最根本的拨乱反正。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4567,7 +5010,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "拥有马克思主义科学理论指导是我们党坚定信仰信念、把握历史主动的根本所在。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4576,7 +5021,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "拥有马克思主义科学理论指导是中国共产党坚定信仰信念、把握历史主动的根本所在，是中国共产党鲜明的政治品格和强大的政治优势。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4585,7 +5032,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "在私营商业中采取委托经销、代销等形式，帮助了私营企业克服困难，使其生产和经营免于纳入国家计划的轨道。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4594,7 +5043,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "在新民主主义革命时期，中国共产党的任务是经过长期合法斗争以进入起义和战争，先占城市后取乡村。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4603,7 +5054,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "只有解放思想才能达到实事求是，只有实事求是才是真正的解放思想。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4612,7 +5065,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "中国的新民主主义革命实质上就是无产阶级领导下的工人革命。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4621,7 +5076,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "中国共产党人在新民主主义革命时期可以通过首先占领中心城市来取得革命在全国的胜利。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4630,7 +5087,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "中国特色社会主义进入新时代是我国发展新的历史方位。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4656,7 +5115,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "改造世界"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4682,7 +5146,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "民粹主义"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4691,7 +5160,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "马克思主义中国化时代化要坚持把马克思主义基本原理同中国具体实际相结合、同中华优秀传统文化相结合。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4700,7 +5171,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "马克思主义只有正确运用于实践并在实践中不断发展才能体现其科学性，彰显其强大力量。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4726,7 +5199,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "洞察时代风云，把握时代大势"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4752,7 +5227,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "着眼于新的实践和新的发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4778,7 +5255,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "实现了中华民族有史以来最为广泛而深刻的社会变革"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4804,7 +5283,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "自信自强、守正创新"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4813,7 +5294,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "马克思列宁主义揭示了人类社会历史发展的规律，是认识世界、改造世界的科学真理。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4839,7 +5322,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党的十八大"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4865,7 +5350,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "习近平"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4891,7 +5378,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "文化自信"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4900,7 +5392,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "思想理论是社会变革的先导。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4909,7 +5403,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "没有中国革命和建设的丰富实践，没有对中国革命和建设经验的深刻总结，就不可能有毛泽东思想。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4935,7 +5431,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "改革开放和社会主义现代化建设"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4961,7 +5461,10 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《论十大关系》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4987,7 +5490,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "机械照搬苏联经验"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -4996,7 +5503,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "毛泽东在对革命实践经验和教训科学总结的基础上，系统阐述了旧民主主义革命理论，实现了马克思主义与中国革命实践相结合的历史性飞跃。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5022,7 +5531,10 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《关于正确处理人民内部矛盾的问题》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5048,7 +5560,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "无产阶级有可能和必要通过自己的先锋队用先进思想、组织性和纪律性提高农民群众的觉悟水平"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5057,7 +5571,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "无产阶级在被迫同资产阶级、主要是同大资产阶级分裂时，不得接受民族资产阶级的同情。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5083,7 +5599,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "调动一切积极因素，化消极因素为积极因素，团结全国各族人民建设社会主义强大国家"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5109,7 +5627,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "有理、有利、有节"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5118,7 +5638,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "注重思想建党、理论强党，是我们党的鲜明特色和光荣传统。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5144,7 +5666,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "不躁"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5170,7 +5697,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《论联合政府》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5196,7 +5725,10 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党的七大"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5205,7 +5737,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "崇古抑今是马克思主义的根本观点，是中国共产党人认识世界、改造世界的根本要求。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5214,7 +5748,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "马克思主义经典作家通过穷尽真理而一劳永逸地解决了各国革命实践中的问题。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5223,7 +5759,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "现代化史观是共产党员革命的出发点与归宿。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5232,7 +5770,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "杰出人物是历史发展和社会进步的主体力量。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5241,7 +5781,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "党在任何时候都把群众利益放在第一位，不允许任何党员脱离群众，凌驾于群众之上。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5250,7 +5792,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "检验党的一切工作的成效，最终只需要以经济发展速度为最高标准。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5259,7 +5803,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "坚持独立自主就要坚持中国的事情必须由中国人民自己作主张、自己来处理。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5268,7 +5814,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "中国共产党的独立自主的探索和实践精神与坚持走自己的路的坚定信心和决心是我们党全部理论和实践的立足点，也是党和人民事业不断从胜利走向胜利的根本保证。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5294,7 +5842,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "政策和策略"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5320,7 +5872,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "在表达方式上具有鲜明的民族特色"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5329,7 +5883,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "毛泽东思想形成和发展的历史条件，与我们今天面临的形势和任务有很大的不同，这减弱和降低了毛泽东思想的科学价值。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5338,7 +5894,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "应当用今天的时代条件、发展水平、认识水平去衡量和要求前人，要求他们提前干出需要由后人来干的业绩。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5347,7 +5905,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "要把经过长期历史考验形成为科学理论的毛泽东思想，同毛泽东晚年所犯的错误区别开来。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5373,7 +5933,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党的八届三中全会"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5382,7 +5944,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "不了解近代中国国情，不了解中国革命的时代特征，便不可能提出符合中国实际的革命理论，也就无法正确领导中国革命。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5408,7 +5972,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "中国民族资本主义受外国资本、官僚资本和封建势力的多重压迫，也不可能在整个社会经济中占据主导地位"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5434,7 +6000,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "控制海关"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5460,7 +6030,10 @@ window.__DEFAULT_QNA_DATA = {
           "content": "传统文化和西方文化的矛盾"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5486,7 +6059,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "中国共产党的成立"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5495,7 +6070,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "新民主主义革命要建立资产阶级共和国，造成资产阶级专政。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5504,7 +6081,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "新民主主义革命理论适应了新民主主义革命实践的需要，是在认真总结中国革命经验教训的基础上形成的。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5530,7 +6109,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "议会斗争"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5556,7 +6140,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "社会主义建设"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5565,7 +6151,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "没有两次国共合作的实践，就没有关于统一战线的理论。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5591,7 +6179,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《论十大关系》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5600,7 +6190,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "新三民主义反映了中国革命的基本规律，指明了中国革命的对象、动力、领导力量、性质和前途，是新民主主义革命的指导路线。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5626,7 +6218,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "民族资产阶级"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5635,7 +6229,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "推翻帝国主义的压迫是近代中国走向独立和富强的前提。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5644,7 +6240,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "地主阶级是在政治上、经济上、文化上阻碍中国社会前进而没有丝毫进步作用的阶级，是中国经济现代化和政治民主化主要的、直接的障碍。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5653,7 +6251,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "如果推翻了地主阶级，就难以组织起强大的革命队伍来推翻帝国主义在中国的统治。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5679,7 +6279,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "美帝国主义支持下的国民党反动派"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5705,7 +6307,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "其产生与中国民族工业的产生和发展无关"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5714,7 +6318,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "中国革命战争实质上就是党领导下的工人暴动。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5723,7 +6329,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "普及新文化是中国革命的中心问题，也是新民主主义革命理论的核心问题。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5732,7 +6340,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "中国民族资产阶级虽然愿意，但没有能力彻底推翻帝国主义和封建势力。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5758,7 +6368,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "掌握生产资料"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5767,7 +6379,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "无产阶级在同资产阶级建立统一战线时，必须坚持“一切服从统一战线”的原则。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5793,7 +6407,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "农民不具有革命动力作用"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5802,7 +6418,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "新民主主义革命的性质是无产阶级社会主义的。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5811,7 +6429,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "新民主主义革命所要实现的目标是消灭资本主义剥削制度和改造小生产的私有制。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5820,7 +6440,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "社会主义革命是民主主义革命的必要准备，民主主义革命是社会主义革命的必然趋势。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5829,7 +6451,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "革命的根本问题是经济路线问题。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5838,7 +6462,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "资产阶级共和国的道路还没有被实践证明在中国行不通。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5847,7 +6473,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "中国社会的性质决定了中国革命的历史进程必须分两步走。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5873,7 +6501,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "地主"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5882,7 +6512,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "在新民主主义条件下保护民族工商业，发展资本主义，是由无产阶级的软弱性和妥协性所决定的。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5908,7 +6540,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "新民主主义文化为少数地主阶级分子服务"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5934,7 +6568,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "校园"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5943,7 +6579,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "近代中国革命走农村包围城市、武装夺取政权的道路，根本在于处理好土地革命、武装斗争、农村革命根据地建设三者之间的关系。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5969,7 +6607,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "帝国主义势力"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5978,7 +6620,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "只有巩固工农联盟，争取农民、知识分子和其他劳动人民，才能实现党对统一战线的领导权。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5987,7 +6631,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "在革命斗争中要依据革命的需要，对资产阶级实行既联合又斗争的策略。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -5996,7 +6642,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "中国革命的胜利，主要是依靠中国共产党所领导的与广大人民群众血肉相连的新型人民军队，通过长期人民战争战胜强大敌人取得的。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6005,7 +6653,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "人民军队必须是服从于无产阶级思想领导的、服务于人民斗争和根据地建设的工具。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6014,7 +6664,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "坚持党对军队的绝对领导，是建设新型人民军队的根本原则，是保持人民军队无产阶级性质和建军宗旨的根本前提，也是毛泽东建军思想的核心。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6023,7 +6675,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "加强党的思想建设，关键是要以无产阶级思想克服和改造各种非无产阶级思想。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6049,7 +6703,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "互相制衡、相互独立"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6075,7 +6733,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "官僚资本主义经济"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6101,7 +6761,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "封建主义和人民大众的矛盾"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6110,7 +6772,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "在新民主主义社会中，社会主义的因素在政治上居于领导地位，非社会主义因素在经济上居于领导地位。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6136,7 +6800,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "开展“三反”“五反”运动"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6145,7 +6811,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "国内的私人资本主义经济在 1952 年我国国民经济得以恢复后要求把有限的资源、资金和技术力量集中使用到重点建设工程上来。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6171,7 +6839,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "对军工业的社会主义改造"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6180,7 +6850,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "只有完成了由生产资料的私人所有制到社会主义所有制的过渡，才利于社会生产力的迅速向前发展。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6206,7 +6878,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "朝鲜战争停战使世界的形势开始和缓"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6232,7 +6906,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "技术先进"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6258,7 +6934,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "具有社会主义萌芽性质"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6267,7 +6945,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "和平赎买，就是国家有偿地将私营企业改变为国营企业，将资本主义私有制改变为社会主义公有制。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6293,7 +6973,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "受工人监督"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6319,7 +7001,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "计划订货"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6328,7 +7012,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "全行业公私合营后，企业的生产关系仍然是资本主义的。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6337,7 +7023,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "国家只有实行全行业公私合营，才能更好地从全局出发有计划地安排生产，保证国家重点建设的顺利进行。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6363,7 +7051,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "完全照搬了列宁在俄国对资产阶级进行和平赎买的成功经验"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6389,7 +7079,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "四五"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6415,7 +7107,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "迂回推进"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6424,7 +7120,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "中国共产党坚持用和平的办法对资本主义工商业进行改造，不仅保证了我国社会主义改造的顺利进行，而且维护了社会的稳定，极大地促进了社会主义事业的发展。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6433,7 +7131,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "判断历史的功绩，不是根据历史活动家没有提供现代所要求的东西，而是根据他们比他们的前辈提供了新的东西。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6459,7 +7159,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《中华人民共和国民法（草稿）》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6468,7 +7170,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "世界历史发展的一般规律排斥个别发展阶段在发展的形式或顺序上表现出特殊性。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6477,7 +7181,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "土地改革是中国历史上最深刻最伟大的社会变革，为当代中国一切发展进步奠定了制度基础，也为中国特色社会主义制度的创新和发展提供了重要前提。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6486,7 +7192,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "实现中华民族伟大复兴，必须建立符合我国实际的先进社会制度。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6495,7 +7203,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "社会主义基本制度的确立，是马克思列宁主义关于社会主义革命理论在中国的正确运用和创造性发展的结果。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6521,7 +7231,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《井冈山的斗争》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6530,7 +7242,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "社会主义建设的积极因素与消极因素在一定条件下是可以互相转化的。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6556,7 +7270,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "着手系统地制定比较完备的法律"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6565,7 +7283,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "社会主义社会的基本矛盾是在生产关系和生产力基本适应、上层建筑和经济基础基本适应条件下的矛盾。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6591,7 +7311,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6600,7 +7322,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "敌我矛盾和人民内部矛盾不会互相转化。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6626,7 +7350,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "对于共产党和民主党派的矛盾，实行在坚持社会主义道路和共产党领导的前提下“长期共存、互相监督”的方针"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6635,7 +7361,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "毛泽东关于社会主义社会矛盾的学说，为后来的社会主义改革奠定了理论基础，对党和社会主义建设事业具有长远的指导意义。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6661,7 +7389,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《井冈山的斗争》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6687,7 +7417,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "拒斥资本主义国家的先进科学技术和管理经验"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6696,7 +7428,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "走中国工业化道路，必须积极探索适合我国情况的经济体制和运行机制。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6722,7 +7456,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "邓小平"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6731,7 +7467,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "努力赶超世界先进水平，就要实行重点发展、迎头赶上的科技发展战略。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6757,7 +7495,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "新疆"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6783,7 +7523,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "交通基础设施"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6809,7 +7553,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "确立了国际社会普遍承认一个中国原则的格局"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6818,7 +7567,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "党的领导工作能否保持正确，决定于它能否采取“从群众中来，到群众中去”的方法。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6827,7 +7578,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "在中国建设社会主义，其艰巨性、复杂性在世界社会主义发展史上都是没有先例的。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6836,7 +7589,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "党必须在宪法和法律范围内活动，任何一级党组织和领导人都不能有超出法律之上的权力。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6845,7 +7600,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "社会主义代替资本主义，意味着社会主义要全盘否定和抛弃资本主义创造的一切成果。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6854,7 +7611,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "社会主义有着无与伦比的优越性，社会主义建设有固定的模式，因此各个国家可以无视具体国情而照搬照抄。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6880,7 +7639,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "深刻把握人类社会发展规律"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6889,7 +7653,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "当今世界是互相孤立的世界，中国的发展必须脱离世界。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6898,7 +7664,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "使全球经济日益融为一体的经济全球化浪潮，是当今世界的生产力、世界市场和科学技术等共同作用的结果。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6924,7 +7692,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "国际环境中不稳定不确定因素减少"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6933,7 +7703,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "2008 年国际金融危机的爆发，充分暴露了资本主义制度的固有矛盾，暴露了世界经济增长模式的弊端。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6942,7 +7714,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "国际力量对比正在发生近代以来最具革命性的变化。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6968,7 +7742,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "自觉纠正僵化的错误观念"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -6994,7 +7770,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党的根本宗旨"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7020,7 +7800,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "对外开放日益扩大"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7046,7 +7828,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "促进经济社会协调发展任务艰巨"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7055,7 +7839,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "中国特色社会主义新时代是全国各族人民团结奋斗、不断创造美好生活、逐步实现全体人民共同富裕的时代。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7081,7 +7867,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "文化"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7107,7 +7898,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "一个脱胎于半殖民地半封建的东方大国如何进行社会主义革命"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7133,7 +7928,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党如何解决经济发展与资源、环境的矛盾"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7142,7 +7942,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "减少参与经济全球化是包括我国在内的发展中国家实现现代化的必由之路。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7168,7 +7970,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《中共中央关于经济体制改革的决定》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7194,7 +7998,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "关于坚持四项基本原则同坚持改革开放的总方针这两个基本点相互结合、缺一不可的观点"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7220,7 +8029,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "如何认识当今的国际环境和国际政治斗争带来的影响"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7246,7 +8060,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "新时代坚持和发展什么样的中国特色社会主义、怎样坚持和发展中国特色社会主义"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7272,7 +8088,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党的十六大"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7281,7 +8099,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "越是在经济发展面临较大困难的时候，越是要坚定不移地贯彻发展是硬道理的战略思想。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7307,7 +8127,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "新时代坚持和发展什么样的中国特色社会主义、怎样坚持和发展中国特色社会主义"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7316,7 +8138,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "习近平新时代中国特色社会主义思想是当代中国马克思主义、21 世纪马克思主义，是中华文化和中国精神的时代精华，是党和人民实践经验和集体智慧的结晶。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7342,7 +8166,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "新时代坚持和发展什么样的中国特色社会主义、怎样坚持和发展中国特色社会主义"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7351,7 +8177,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "邓小平关于社会主义本质的概括，反映了人民的利益和时代的要求，廓清了不合乎时代进步和社会发展规律的模糊观念。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7360,7 +8188,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "吸收外国资金，虽然能够发展社会生产力，但同时也必定会严重冲击社会主义制度。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7386,7 +8216,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《在武昌、深圳、珠海、上海等地的谈话要点》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7412,7 +8244,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "绝对化"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7438,7 +8275,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "全民奋起，艰苦创业，实现中华民族伟大复兴的阶段"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7464,7 +8303,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "艰巨性"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7490,7 +8333,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "社会主义的发展动力和外部条件"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7516,7 +8361,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《在武昌、深圳、珠海、上海等地的谈话要点》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7542,7 +8389,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《改革是中国发展生产力的必由之路》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7551,7 +8400,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "中国解决所有问题的关键是要靠依赖外援。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7560,7 +8411,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "在中国搞现代化不能追求太高的速度，但速度低了也不行。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7586,7 +8439,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "借鉴"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7595,7 +8452,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "改革是一场深刻的社会变革，是中国的第二次革命，是实现中国现代化的必由之路。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7621,7 +8480,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "要以“三个有利于”为标准来判断改革和各方面工作的是非得失"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7630,7 +8491,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "社会主义作为后起的崭新的社会制度，必须大胆借鉴、吸收人类社会包括资本主义社会创造出来的全部文明成果，结合新的实践进行新的创造，为我所用。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7639,7 +8502,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "不改革开放不搞现代化建设会葬送社会主义，不建设精神文明同样会葬送社会主义。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7665,7 +8530,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "资本主义制度与计划经济"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7691,7 +8558,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "叶剑英"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7717,7 +8586,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "各国的共同发展是保持世界和平的重要基础"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7743,7 +8614,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "互不干涉内部事务"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7769,7 +8645,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "创造性"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7778,7 +8659,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "邓小平理论为我们坚持走自己的路，建设中国特色社会主义提供了根本遵循。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7804,7 +8687,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "消灭民族资产阶级"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7813,7 +8700,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "知识分子是先进生产力的开拓者，在改革开放和现代化建设中有着特殊重要的作用。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7839,7 +8728,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "识别人才"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7865,7 +8758,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "枢纽性"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7891,7 +8788,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "以优秀的作品鼓舞人"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7917,7 +8819,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "自强不息"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7943,7 +8850,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "趋同性"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7952,7 +8863,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "哲学社会科学是人们认识世界、改造世界的重要工具，是推动历史发展和社会进步的重要力量。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7978,7 +8891,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "在艺术理论上提倡不同观点和学派的自由讨论"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7987,7 +8905,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "我们党作为执政党，面临的最根本的课题，是能不能始终代表最广大人民的根本利益，始终全心全意为人民服务。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -7996,7 +8916,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "政治问题主要是对人民群众的态度问题、同人民群众的关系问题。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8005,7 +8927,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "党的一切工作，必须以最广大人民的根本利益为最高标准。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8031,7 +8955,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "人民答应不答应"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8057,7 +8986,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "2008"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8083,7 +9014,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "改革的力度、发展的速度可以在一定层面上超过社会可承受的程度"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8109,7 +9042,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党的十五大"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8118,7 +9053,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "股份制利于提高企业和资本的运作效率，只适用于资本主义。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8144,7 +9081,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "保持国际收支平衡"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8153,7 +9092,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "没有民主就没有社会主义，就没有社会主义的现代化。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8179,7 +9120,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "廉洁高效"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8188,7 +9134,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "人权领域内的对话和合作，必须在尊重国家主权的基础上开展。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8197,7 +9145,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "办好中国的事情，关键取决于中国共产党。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8223,7 +9173,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "专业化"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8232,7 +9187,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "全心全意为人民服务，立党为公，执政为民，是我们党同一切剥削阶级政党的根本区别。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8258,7 +9215,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "既要关注群众基本需求的满足，又要注重生活质量的提高和人的全面发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8267,7 +9229,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "科学技术是经济社会发展中最活跃、最具革命性的因素，是先进生产力的集中体现和主要标志。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8293,7 +9257,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "创造"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8302,7 +9271,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "科学发展观中的“以人为本”完全继承和复制沿袭了中国古代的民本思想。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8311,7 +9282,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "科学技术是生产力中最活跃、最革命的因素，创造了社会的物质财富和精神财富。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8337,7 +9310,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "社会建设"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8363,7 +9341,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "思想观念深刻变化"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "D",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8389,7 +9372,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "可持续发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8398,7 +9383,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "统筹兼顾深刻揭示了实现科学发展、促进社会和谐的基本途径，是正确处理经济社会发展中重大关系的方针原则。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8424,7 +9411,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "发展方式不可持续"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "D",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8450,7 +9442,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "城乡区域发展协调互动"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8476,7 +9472,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "不能用局部发展损害全局利益"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8502,7 +9500,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "向外为主"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8528,7 +9530,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "城乡一体"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8554,7 +9560,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "阶层关系"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "D",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8580,7 +9591,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "影响力"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8606,7 +9622,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "公众参与"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8632,7 +9652,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "应急处置"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8658,7 +9682,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "稀土"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8667,7 +9695,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "保持和发展党的先进性是马克思主义政党自身建设的根本任务和永恒课题。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8693,7 +9723,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "改革发展稳定"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8719,7 +9754,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "团结海内外全体中华儿女实现中华民族伟大复兴的重要法宝"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8728,7 +9767,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "毛泽东在《论十大关系》中提出的党关于社会主义建设的基本方针是调动一切积极因素为社会主义事业服务。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8754,7 +9795,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "工人阶级（经过共产党）领导的以工农联盟为基础的人民民主专政"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8780,7 +9823,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "古田会议"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8806,7 +9851,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "“中国革命斗争的胜利要靠中国同志了解中国情况”"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8832,7 +9879,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党的十五届三中全会"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8841,7 +9890,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "坚持中国特色社会主义政治发展道路，最根本的是要坚持党的领导、人民当家作主、依法治国有机统一。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8867,7 +9918,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党把握历史主动的根本所在"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8893,7 +9949,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "直到敌我力量强弱发生转化，再攻占中心城市，夺取全国政权和全国革命的胜利"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8919,7 +9980,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "具有革命的要求"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B",
+        "A",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8945,7 +10010,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "当时的国际形势也有利于中国向社会主义过渡，这为实行过渡时期总路线提供了有利的国际环境"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8971,7 +10041,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "与邻为善"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -8997,7 +10071,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "深化了我们对新的时代条件下推进中国特色社会主义事业、加强党的建设的规律的认识"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9006,7 +10085,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "马克思主义之所以行，就在于党不断推进马克思主义中国化时代化并用以指导实践。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9032,7 +10113,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "中国革命的首要问题"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9058,7 +10141,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "官僚资产阶级"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9084,7 +10169,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "土地问题"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9110,7 +10197,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "工人运动"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9136,7 +10225,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "团结—批评—团结"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9162,7 +10253,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "保持党的优良作风"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9188,7 +10281,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "正确处理城市建设和农村发展的问题"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9197,7 +10292,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "毛泽东所说的中国工业化道路有别于苏联的工业化道路。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9223,7 +10320,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "实现什么样的现代化、怎样实现现代化"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9249,7 +10348,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "社会主义制度的自我完善和发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9275,7 +10376,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "香港和澳门问题"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9301,7 +10404,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "科学发展观"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9327,7 +10432,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "马克思主义的根本观点"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9353,7 +10463,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "在党与民主党派的关系上实行“长期共存、互相监督”的方针，在科学文化工作中实行“百花齐放、百家争鸣”的方针"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9379,7 +10494,10 @@ window.__DEFAULT_QNA_DATA = {
           "content": "“一次革命论”是错误的，“二次革命论”是正确的"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9405,7 +10523,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "民族资本主义经济是一种与新生产力相联系的先进的生产方式和经济成分"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9431,7 +10553,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "中国内无民主制度而受封建主义的压迫"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9457,7 +10583,10 @@ window.__DEFAULT_QNA_DATA = {
           "content": "和平与发展的时代主题"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9483,7 +10612,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "孤立顽固势力"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9509,7 +10642,10 @@ window.__DEFAULT_QNA_DATA = {
           "content": "实事求是"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9535,7 +10671,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "国家资本主义经济"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9561,7 +10701,10 @@ window.__DEFAULT_QNA_DATA = {
           "content": "向资本家支付巨额补偿资金"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9587,7 +10730,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "体现了变革生产关系与发展生产力的有机统一"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9613,13 +10761,17 @@ window.__DEFAULT_QNA_DATA = {
           "content": "和谐社会构建与社会主义核心价值体系建设同步进行"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
     {
       "id": "q464",
-      "type": "single",
+      "type": "multiple",
       "question": "“四马分肥”是指在对资本主义工商业进行社会主义改造的第一和第二 步，即在实行初级形式的国家资本主义的企业和实行个别企业公私合营的企业，利润按四个方面进行分配即“四马分肥”。下列属于“四马”的是（）。 (多 选题) A、 国家所得税 B、 企业公积金 C、 工人福利费 D、 股东收益",
       "options": [
         {
@@ -9639,7 +10791,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "股东收益"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C",
+        "A",
+        "B",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9665,7 +10822,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "这种新式国家资本主义经济是带着很大的社会主义性质的，是对工人和国家有利的"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9691,7 +10853,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "既避免了激烈的阶级对抗，减少了改造的阻力，又推动了生产力的发展和社会的进步"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9717,7 +10884,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "为实现中华民族伟大复兴奠定了根本政治前提和制度基础"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9743,7 +10914,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "“向科学进军”的口号"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9769,7 +10944,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "长期共存、互相监督"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9795,7 +10974,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "摆脱了长期以来拘泥于具体模式而忽略社会主义本质的错误倾向"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9821,7 +11004,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "提出了全面建成社会主义现代化强国的战略安排"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9847,7 +11034,10 @@ window.__DEFAULT_QNA_DATA = {
           "content": "它与资本主义市场经济体制并无共同点"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9873,7 +11063,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "国家长治久安的重要保障"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "D",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9899,7 +11094,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "最终是为了实现人的全面发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9925,7 +11125,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "国家资本主义经济"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9951,7 +11153,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "统购统销"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -9977,7 +11181,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "个别企业的公私合营"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10003,7 +11211,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "毛泽东"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10029,7 +11239,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《星星之火，可以燎原》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10055,7 +11267,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "半社会主义性质"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10081,7 +11295,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "一般政治制度"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10107,7 +11323,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党的政治宣传"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10133,7 +11351,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "生产关系和生产力"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10159,7 +11379,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "中共十一届六中全会"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10185,7 +11407,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "实施“三步走”战略"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10211,7 +11435,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "思想政治工作"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10237,7 +11463,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "科技文明"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10263,7 +11491,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "发展为了谁和依靠谁"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10289,7 +11519,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "人与社会整体和谐"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10315,7 +11547,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党的建设"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10341,7 +11577,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "艰巨性"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10367,7 +11607,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "力量之源"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10393,7 +11637,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "保障和改善民生"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10402,7 +11651,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "新民主主义社会不是一个独立的社会形态，而是一个由新民主主义向社会主义转变的过渡性社会形态。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10411,7 +11662,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "坚持中国共产党的领导，就是要坚持党在建设中国特色社会主义事业中的领导核心地位，发挥党总揽全局、协调各方的作用。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10437,7 +11690,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "更为完善的制度保证、更为坚实的物质基础、更为主动的精神力量"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10463,7 +11718,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "由大革命失败到土地革命战争兴起的历史性转变"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10489,7 +11746,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "初级形式的国家资本主义"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10515,7 +11774,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "独立自主"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10541,7 +11802,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "中国改革和现代化建设"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10567,7 +11830,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "消除社会矛盾，实现民族大团结"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10593,7 +11858,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党的七届三中全会"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10619,7 +11886,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "加强自我革命"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10645,7 +11914,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "只有全面深入了解中国的实际，才能找出规律"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10671,7 +11942,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "习近平新时代中国特色社会主义思想"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10697,7 +11970,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "解放思想"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10723,7 +11998,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "总结和提炼马克思主义经典作家的语录来指导中国实践的发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10749,7 +12028,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "将自力更生、艰苦奋斗作为党的基本路线"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10775,7 +12058,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "自然科学"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10801,7 +12086,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "实现中华民族的伟大复兴"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10827,7 +12116,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "如何进行社会主义革命，如何改造旧社会、建立新社会"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10836,7 +12129,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "科学发展观是全面建设小康社会、加快推进社会主义现代化的根本指针。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10845,7 +12140,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "坚定不移推进依法治国基本方略，是国家长治久安的重要保障。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10871,7 +12168,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "实现可持续发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10897,7 +12196,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "“三个有利于”"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10923,7 +12224,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "坚持发展为了人民，始终把最广大人民的根本利益放在第一位"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10949,7 +12252,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "安定有序"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -10975,7 +12280,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "全面深化经济体制改革"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11001,7 +12308,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "要尽快把经济发展起来，迅速提高人民群众的生活水平，再考虑可持续发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11027,7 +12336,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "先全面建成小康社会，再集中力量科学发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11053,7 +12364,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "要树立高度的文化自觉和文化自信，兴起社会主义文化建设新高潮"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11079,7 +12392,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "中国共产党领导全体人民共同建设、共同享有的和谐社会，是人与人、人与社会、人与自然整体和谐的社会"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11105,7 +12422,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "是指导中国进行反帝反封建民主革命的科学指南"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11131,7 +12452,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "社会和谐"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11157,7 +12480,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "发展农民的个体经济解放生产力"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11183,7 +12508,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "要实现的目标是消灭资本主义剥削制度和改造小生产的私有制"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11209,7 +12536,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "在近代革命的各个历史阶段，革命的主要对象并不会发生改变"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11235,7 +12566,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "以人民群众的实践作为创作的源泉，坚持为人民大众服务的方向"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11261,7 +12596,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "新民主主义革命和社会主义革命双重性质"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11287,7 +12624,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "必须联系党的政治路线加强党的建设"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11313,7 +12654,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "确定实行土地革命和工人起义的方针"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11339,7 +12684,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "近代中国社会政治经济发展极端不平衡，四分五裂，军阀割据"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B",
+        "A",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11365,7 +12715,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "社会主义建设的经验教训"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11391,7 +12745,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "解放思想的重要性"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11417,7 +12773,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "坚持改革开放"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11443,7 +12803,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "改革是原有经济体制的细枝末节的修补"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11469,7 +12833,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "在总结我国社会主义历史经验的基础上进一步揭示社会主义社会发展的一般规律"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11478,7 +12844,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "发展是硬道理，中国解决问题的关键就是降低外资投资门槛，依靠大量的、充分的吸引外资、寻求外国援助的措施来促进发展。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11504,7 +12872,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "发展是国际竞争中赢得主动的需要"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11530,7 +12902,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "公私合营，和平赎买"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11556,7 +12930,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "资产阶级在社会主义改造时期具有两面性"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11582,7 +12958,10 @@ window.__DEFAULT_QNA_DATA = {
           "content": "采用统购包销、经销代销的方法"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11608,7 +12987,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "召开了中共十一届三中全会"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11634,7 +13015,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "统筹兼顾和适当安排的紧密结合"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11660,7 +13045,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "集体化"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11686,7 +13073,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "强调改革开放"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11712,7 +13103,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "无产阶级和资产阶级的矛盾"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11738,7 +13131,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "必须坚持党的民主集中制和集体领导制度，加强执政党建设"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11764,7 +13162,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "重工业、轻工业和农业的发展关系问题"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11790,7 +13190,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "社会主义社会的矛盾可以通过社会主义制度本身的调整完善加以解决"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11816,7 +13220,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "加强和改进新形势下党的群众工作"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11842,7 +13248,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "毛泽东思想"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11868,7 +13276,10 @@ window.__DEFAULT_QNA_DATA = {
           "content": "它是中国革命、建设和改革的科学指南"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C",
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11894,7 +13305,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "中国特色社会主义理论体系的接续发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11920,7 +13335,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "我们党最宝贵的政治和精神财富"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11946,7 +13366,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "坚持独立思考走自己的路"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11972,7 +13396,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《反对本本主义》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -11998,7 +13424,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "改革开放的成功实践"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12007,7 +13435,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "改革开放以来形成的中国特色社会主义理论体系是指导党和人民沿着中国特色社会主义道路实现中华民族伟大复兴的正确理论，是立于时代前沿、与时俱进的科学理论。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12033,7 +13463,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "科学社会主义"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12059,7 +13491,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《论十大关系》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12068,7 +13504,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "在面对外敌侵略时，团结大地主大资产阶级是软弱退让的绥靖行为。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12094,7 +13532,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "通过大力激发资本逐利性来发展市场经济的作风"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12120,7 +13560,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "放弃个体主观能动性"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12129,7 +13571,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "坚持群众路线就要保持党同人民群众的血肉联系。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12138,7 +13582,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "贯穿于毛泽东思想科学体系中的立场、观点和方法是最能体现毛泽东思想理论本质特点的思想内容。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12147,7 +13593,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "革命领袖的认识和行动可以不受时代条件限制。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12156,7 +13604,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "虽然近代中国仍然保留着形式上的独立，实际上已经受制于帝国主义列强，丧失了真正独立的地位，成为帝国主义列强的半殖民地。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12182,7 +13632,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "照搬西方资本主义的方案"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12208,7 +13663,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "《论人民民主专政》"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12234,7 +13691,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "为中国的经济现代化和政治民主化创造条件"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12243,7 +13702,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "近代中国半殖民地半封建社会的性质和中国革命的历史任务，决定了中国革命仍然是旧式的、一般的资产阶级民主主义的革命。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12269,7 +13730,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "新民主主义共和国和苏联式的无产阶级专政的社会主义共和国完全相同"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12278,7 +13741,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "民族资本主义经济是一种与新生产力相联系的先进的生产方式和经济成分，对近代中国发展先进技术、发展社会生产力具有积极作用。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12304,7 +13769,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "从解放战争胜利到土地改革基本完成"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12330,7 +13797,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党的七届二中全会"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12356,7 +13825,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "引导农业向社会主义方向发展"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "D",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12382,7 +13856,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "国家帮助"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12408,7 +13886,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "商业"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12417,7 +13897,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "社会主义社会的基本矛盾是在人民根本利益一致基础上的矛盾，是对抗性的矛盾。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12426,7 +13908,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "以阶级斗争为纲是社会主义国家政治生活的主题。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12452,7 +13936,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "工人群众、领导干部和技术人员三结合"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12478,7 +13964,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "双方互约不派人进行破坏对方团结之事"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12487,7 +13975,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "民主集中制是无产阶级政党的根本组织原则，是指导党内生活的基本准则。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12513,7 +14003,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "日本"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12539,7 +14031,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "时代主题之变"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12565,7 +14061,11 @@ window.__DEFAULT_QNA_DATA = {
           "content": "矛盾凸显期"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12574,7 +14074,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "改革开放以来，时代变化和我国发展的广度和深度远远超出了马克思主义经典作家当时的想象。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12600,7 +14102,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "党的十五大"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "B"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12609,7 +14113,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "一个政权、一个政党的前途命运最终取决于人心向背，不能赢得最广大人民的支持，就必然垮台。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12618,7 +14124,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "社会主义经济政策对不对，归根到底要看生产力是否发展，人民收入是否增加。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12627,7 +14135,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "社会主义本身是共产主义的初级阶段，而我们中国又处在社会主义的高级阶段。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "错误"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12653,7 +14163,12 @@ window.__DEFAULT_QNA_DATA = {
           "content": "文化"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12662,7 +14177,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "商品经济的充分发展，是社会经济发展的不可逾越的阶段，是实现我国经济现代化的必要条件。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12671,7 +14188,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "和平与发展成为时代的主题，是世界各种矛盾发展变化和世界抑制战争因素不断增长合力作用的结果。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12680,7 +14199,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "实现社会主义现代化，最根本的就是要通过改革，不断促进先进生产力的发展，使我国形成发达的生产力。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12706,7 +14227,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "全面复制西方文化"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "D"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12732,7 +14255,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "物质效益"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12741,7 +14266,9 @@ window.__DEFAULT_QNA_DATA = {
       "type": "judge",
       "question": "中国解决所有问题的关键在于依靠自己的发展。",
       "options": [],
-      "correct_answers": [],
+      "correct_answers": [
+        "正确"
+      ],
       "score": 5,
       "explanation": ""
     },
@@ -12767,7 +14294,9 @@ window.__DEFAULT_QNA_DATA = {
           "content": "东北问题"
         }
       ],
-      "correct_answers": [],
+      "correct_answers": [
+        "A"
+      ],
       "score": 5,
       "explanation": ""
     }
