@@ -473,8 +473,8 @@
           const judgeQuick = question.type === "judge"
             ? `
               <div class="answer-tools">
-                <button type="button" class="btn btn-secondary quick-answer" data-value="姝ｇ‘" data-question-id="${escapeHtml(question.id)}">姝ｇ‘</button>
-                <button type="button" class="btn btn-secondary quick-answer" data-value="閿欒" data-question-id="${escapeHtml(question.id)}">閿欒</button>
+                <button type="button" class="btn btn-secondary quick-answer" data-value="正确" data-question-id="${escapeHtml(question.id)}">正确</button>
+                <button type="button" class="btn btn-secondary quick-answer" data-value="错误" data-question-id="${escapeHtml(question.id)}">错误</button>
               </div>
             `
             : "";
